@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
+      "Decider/0.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Decider.Csp.BaseTypes.dll": {},
+          "lib/netcoreapp2.0/Decider.Csp.Global.AllDifferentInteger.dll": {},
+          "lib/netcoreapp2.0/Decider.Csp.Integer.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Decider.Csp.BaseTypes.dll": {},
+          "lib/netcoreapp2.0/Decider.Csp.Global.AllDifferentInteger.dll": {},
+          "lib/netcoreapp2.0/Decider.Csp.Integer.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "type": "package",
         "dependencies": {
@@ -200,6 +213,21 @@
     }
   },
   "libraries": {
+    "Decider/0.3.4": {
+      "sha512": "jHtsrZes1GV1ACxFfREHq2yWbKsm2H15iwBH1127FLg4gMUqmwoPejZU6YSkXPIzj49XXIcQolsXp3t9SCAFOg==",
+      "type": "package",
+      "path": "decider/0.3.4",
+      "files": [
+        "decider.0.3.4.nupkg.sha512",
+        "decider.nuspec",
+        "lib/net45/Decider.Csp.BaseTypes.dll",
+        "lib/net45/Decider.Csp.Global.AllDifferentInteger.dll",
+        "lib/net45/Decider.Csp.Integer.dll",
+        "lib/netcoreapp2.0/Decider.Csp.BaseTypes.dll",
+        "lib/netcoreapp2.0/Decider.Csp.Global.AllDifferentInteger.dll",
+        "lib/netcoreapp2.0/Decider.Csp.Integer.dll"
+      ]
+    },
     "Microsoft.NETCore.App/2.0.0": {
       "sha512": "/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
       "type": "package",
@@ -660,6 +688,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Decider >= 0.3.4",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -708,6 +737,10 @@
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Decider": {
+            "target": "Package",
+            "version": "0.3.4"
           }
         },
         "imports": [
