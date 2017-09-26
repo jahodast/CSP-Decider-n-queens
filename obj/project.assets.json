@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\n-queens.csproj",
+      "projectUniqueName": "c:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\n-queens.csproj",
       "projectName": "n-queens",
-      "projectPath": "C:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\n-queens.csproj",
+      "projectPath": "c:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\n-queens.csproj",
       "packagesPath": "C:\\Users\\stanislavj\\.nuget\\packages\\",
-      "outputPath": "C:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\obj\\",
+      "outputPath": "c:\\stan\\dev\\c#\\constraint-satisfaction-problem\\Decider\\n-queens\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

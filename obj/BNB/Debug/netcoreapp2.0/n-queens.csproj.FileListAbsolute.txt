@@ -1,0 +1,10 @@
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\bin\BNB\Debug\netcoreapp2.0\n-queens.deps.json
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\bin\BNB\Debug\netcoreapp2.0\n-queens.runtimeconfig.json
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\bin\BNB\Debug\netcoreapp2.0\n-queens.runtimeconfig.dev.json
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\bin\BNB\Debug\netcoreapp2.0\n-queens.dll
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\bin\BNB\Debug\netcoreapp2.0\n-queens.pdb
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\obj\BNB\Debug\netcoreapp2.0\n-queens.csproj.CoreCompileInputs.cache
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\obj\BNB\Debug\netcoreapp2.0\n-queens.AssemblyInfoInputs.cache
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\obj\BNB\Debug\netcoreapp2.0\n-queens.AssemblyInfo.cs
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\obj\BNB\Debug\netcoreapp2.0\n-queens.dll
+c:\stan\dev\c#\constraint-satisfaction-problem\Decider\n-queens\obj\BNB\Debug\netcoreapp2.0\n-queens.pdb
